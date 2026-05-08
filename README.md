@@ -23,7 +23,6 @@ Copiloto inteligente de vendas para lojas de camisetas evangélicas.
 - Sugestão de camisetas
 - Upsell de ecobags
 - Sugestão de canecas
-- Oferta de bottoms personalizados
 
 ### Fluxo de Presente
 - Pergunta de ocasião
