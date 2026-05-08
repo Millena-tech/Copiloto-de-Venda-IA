@@ -45,11 +45,6 @@ class Config:
             "categoria": "Canecas Personalizadas",
             "preco": 39.90,
             "opcoes": ["Branca", "Preta", "Colorida"]
-        },
-        "bottoms": {
-            "categoria": "Bottoms Personalizados",
-            "preco_medio": 89.90,
-            "tipos": ["Shorts", "Calça", "Bermuda"]
         }
     }
 
